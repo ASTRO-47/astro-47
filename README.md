@@ -46,7 +46,7 @@
 ├─◈ <a href="https://github.com/iez-zagh/cub_3d">Cub3D</a>
 ├─◈ <a href="https://github.com/iez-zagh/Born2beRoot">Born2beRoot</a>
 ├─◈ <a href="https://github.com/iez-zagh/CPP_Modules">CPP_Modules</a>
-├─◈ <a href="https://github.com/iez-zagh/ft_irc">ft_irc</a>
+├─◈ <a href="https://github.com/iez-zagh/FT_IRC">ft_irc</a>
 └───────────────────────────────▰▰▰
 
 
