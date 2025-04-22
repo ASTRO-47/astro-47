@@ -77,7 +77,7 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 
 ## Stats
 <p align="center">
-  <a href="https://github.com/raveriss">
+  <a href="https://github.com/astro-47">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=raveriss&show_icons=true&theme=tokyonight" alt="Rafael's GitHub Stats" />
 <!--   <a href="https://github.com/raveriss">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raveriss&theme=tokyonight" alt="Rafael's GitHub Streak" />
@@ -89,7 +89,7 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 </p>
 
 <p align="center">
-  <a href="https://github.com/raveriss">
+  <a href="https://github.com/astro-47">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveriss&layout=compact&theme=tokyonight" />
   </a>
 
