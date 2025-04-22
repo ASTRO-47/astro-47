@@ -1,30 +1,100 @@
-</p>
-<p align="center">  
-<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
+<h1 align="center">Hi there 👋, I'm Rafael</h1>
+
+###
+<p align="center">
+  <!-- Badges GitHub Followers et Stars -->
+  <a href="https://github.com/astro-47?tab=followers">
+    <img src="https://img.shields.io/github/followers/astro-47?style=flat" alt="Github Followers"/>
+  </a>
+  <a href="https://github.com/astro-47?tab=repositories">
+    <img src="https://img.shields.io/github/stars/astro-47?style=flat" alt="Github Stars"/>
+  </a>
+  <!-- Badge Visites avec style cohérent -->
+  <img src="https://komarev.com/ghpvc/?username=astro-47&color=blue&style=flat" alt="profile views" />
+  <!-- Badge Email personnalisé avec shields.io -->
+  </a>
+  <div style="text-align: justify; color: #555;">
 </p>
 
-## root:~$ whoami
->  [1337](https://1337.ma/en/) Student \
->  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
+###
 
+<div align="justify">
+I joined École 42 with the aim of obtaining the title of Expert in Computer Architecture, a level 7 certification recognized in the National Directory of Professional Certifications (RNCP). To find out more about this certification, click here.
+
+Through my journey, I have developed a deep conviction: digital technologies and innovations can play a crucial role in improving many aspects of our lives, such as health, housing, food, education, and the community fabric. I therefore strive to master as many IT skills as possible to create innovative tools that meet these challenges.
+
+Today, I am looking for opportunities to leverage my skills and passion to contribute to projects that have a tangible positive impact on our society. If you share this vision and are looking to collaborate with someone determined to make a difference, please contact me.
+</div>
+
+## Languages
+<p align="center">
+    <img src="https://github.com/raveriss/skill-icons/blob/main/C.png" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/CPP.png" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/JavaScript.png" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/HTML.png" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/CSS.png" height="48" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="48" />
+</p>
+
+## Tools
+<p align="center">
+        <img src="https://github.com/raveriss/skill-icons/blob/main/chatgpt.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/copilot.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/perplexity.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/mistral.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_audacity.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/eleven_labs.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/OBS_Studio_Logo.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/synthesia.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/gimp.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/midJourney.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/inkscape.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/canva.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Photoshop.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/revit.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/rhinoceros.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/AutoCAD-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Sketchup-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/kerkythea.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Bash-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/CMake-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Ubuntu-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/linux.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Sublime-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/VIM-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/VSCode-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_git.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Github-Dark.png" height="48" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" height="48" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" height="48" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="48" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="48" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="48" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" height="48" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" height="48" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="48" />
+</p>
+
+## Stats
+<p align="center">
+  <a href="https://github.com/raveriss">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=raveriss&show_icons=true&theme=tokyonight" alt="Rafael's GitHub Stats" />
+<!--   <a href="https://github.com/raveriss">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raveriss&theme=tokyonight" alt="Rafael's GitHub Streak" />
+  </a> -->
+  <!-- La carte de graphique de contributions pourrait être temporairement enlevée si elle ne s'affiche pas correctement -->
+  <!-- <a href="https://github.com/raveriss">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raveriss&theme=github" alt="Rafael's Contribution Graph" />
+  </a> -->
+</p>
 
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/blue/iez-zagh" alt="ael-khni's 42 stats" /></a>
-</p>
+  <a href="https://github.com/raveriss">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveriss&layout=compact&theme=tokyonight" />
+  </a>
 
 
-
-<pre>
-
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─▣ Student at 1337 Khouribga
-├─▣ From Taounate Morocco
-├─▣ Up to the challenge.
-├─▣ Interested in low-level Programming, and Web Development.
-│
-└───────────────────────────────▰▰▰
-
+  <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/imad-ez-zaghba-8581342ab/">LinkedIn</a>
@@ -51,38 +121,3 @@
 
 
 </pre>
-
---------------
-
-<p align="center">
-	<a href="mailto:ezzaghba38@gmail.com">
-		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com&color=3d85c6" />
-	</a>
-	<span> * </span>
-    <a href="https://www.linkedin.com/in/imad-ez-zaghba-8581342ab/">
-        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
-    </a>
-<!--     <span> * </span>
-    <a href="https://twitter.com/suprivada">
-        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=1DA1F2" />
-    </a> -->
-    <span> * </span>
-    <a href="https://discord.com/users/1168882130844127315">
-        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=7289da" />
-    </a>
-
-</p>
-
----------------
-
-<br>
-<img width="80%" align="center" src="https://wakatime.com/share/@Born2Code/264d4d98-fa55-4f24-8834-697e5bb2dffd.svg">
-<br>
-<a width="80%" href="https://wakatime.com/@018d16f4-9561-4744-9338-4968825856af"><img width=35% src="https://wakatime.com/badge/user/018d16f4-9561-4744-9338-4968825856af.svg" alt="Total time coded since Jan 17 2024" /></a>
-  <div>
-<!-- 	<img alt="imadzaghba's visitors" src="https://komarev.com/ghpvc/?username=achrafelkhnissi&color=8c36db&style=flat&label=visitors" /> -->
-<!-- 	<img alt="imadzaghba's followers" src="https://img.shields.io/github/followers/imad zaghba?color=blueviolet" /> -->
-<!-- 	<img alt="imadzaghba's stars" src="https://img.shields.io/github/stars/achrafelkhnissi?color=blueviolet" /> -->
-</p>
-
----------------
