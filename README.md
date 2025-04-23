@@ -88,9 +88,9 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 <!-- </p>
 
 <p align="center">
-<!--   <a href="https://github.com/astro-47"> -->
+<!-- <!--   <a href="https://github.com/astro-47"> -->
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveriss&layout=compact&theme=tokyonight" />
-  </a> -->
+  </a> --> 
 
 
   <pre> -->
