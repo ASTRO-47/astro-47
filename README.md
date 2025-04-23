@@ -93,7 +93,7 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
   </a> --> 
 
 
-  <pre> -->
+  <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/imad-ez-zaghba-8581342ab/">LinkedIn</a>
