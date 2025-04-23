@@ -40,36 +40,35 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 <p align="center">
         <img src="https://github.com/raveriss/skill-icons/blob/main/chatgpt.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/copilot.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/perplexity.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/mistral.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_audacity.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/eleven_labs.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/OBS_Studio_Logo.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/synthesia.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/gimp.png" height="48" />
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/perplexity.png" height="48" /> -->
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/mistral.png" height="48" /> -->
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/icone_audacity.png" height="48" /> -->
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/eleven_labs.png" height="48" /> -->
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/OBS_Studio_Logo.png" height="48" /> -->
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/synthesia.png" height="48" /> -->
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/gimp.png" height="48" /> -->
         <img src="https://github.com/raveriss/skill-icons/blob/main/midJourney.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/inkscape.png" height="48" />
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/inkscape.png" height="48" /> -->
         <img src="https://github.com/raveriss/skill-icons/blob/main/canva.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Photoshop.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/revit.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/rhinoceros.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/AutoCAD-Dark.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Sketchup-Dark.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/kerkythea.png" height="48" />
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/Photoshop.png" height="48" /> -->
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/revit.png" height="48" /> -->
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/rhinoceros.png" height="48" /> -->
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/AutoCAD-Dark.png" height="48" /> -->
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/Sketchup-Dark.png" height="48" /> -->
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/kerkythea.png" height="48" /> -->
         <img src="https://github.com/raveriss/skill-icons/blob/main/Bash-Dark.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/CMake-Dark.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/Ubuntu-Dark.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/linux.png" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Sublime-Dark.png" height="48" />
+<!--         <img src="https://github.com/raveriss/skill-icons/blob/main/Sublime-Dark.png" height="48" /> -->
         <img src="https://github.com/raveriss/skill-icons/blob/main/VIM-Dark.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/VSCode-Dark.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/icone_git.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/Github-Dark.png" height="48" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" height="48" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" height="48" />
+<!--         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" height="48" /> --
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="48" />
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="48" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="48" />
+<!--         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="48" /> -->
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" height="48" />
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" height="48" />
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="48" />
@@ -78,7 +77,7 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 ## Stats
 <p align="center">
   <a href="https://github.com/astro-47">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=raveriss&show_icons=true&theme=tokyonight" alt="Rafael's GitHub Stats" />
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=raveriss&show_icons=true&theme=tokyonight" alt="Rafael's GitHub Stats" /> -->
 <!--   <a href="https://github.com/raveriss">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raveriss&theme=tokyonight" alt="Rafael's GitHub Streak" />
   </a> -->
@@ -89,12 +88,12 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 <!-- </p>
 
 <p align="center">
-  <a href="https://github.com/astro-47">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveriss&layout=compact&theme=tokyonight" />
+<!--   <a href="https://github.com/astro-47"> -->
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveriss&layout=compact&theme=tokyonight" />
   </a> -->
 
 
-  <pre>
+  <pre> -->
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/imad-ez-zaghba-8581342ab/">LinkedIn</a>
