@@ -19,11 +19,12 @@
 ###
 
 <div align="justify">
-I joined École 42 with the aim of obtaining the title of Expert in Computer Architecture, a level 7 certification recognized in the National Directory of Professional Certifications (RNCP). To find out more about this certification, click here.
+About Me
+I’m a computer science enthusiast who began my journey at USMBA (Université Sidi Mohamed Ben Abdellah, Fez), where I built a solid foundation in algorithms, data structures, and software engineering. Eager to push my limits, I then joined 42 Network’s 1337 Coding School, mastering C, C++, shell scripting, and network programming through peer-driven projects.
 
-Through my journey, I have developed a deep conviction: digital technologies and innovations can play a crucial role in improving many aspects of our lives, such as health, housing, food, education, and the community fabric. I therefore strive to master as many IT skills as possible to create innovative tools that meet these challenges.
+My passion extends to web development—from crafting responsive front‑ends with HTML/CSS/JavaScript to building RESTful APIs in Node.js. I believe digital technologies can transform lives—improving education, healthcare, and community engagement—and I’m driven to create tools that matter.
 
-Today, I am looking for opportunities to leverage my skills and passion to contribute to projects that have a tangible positive impact on our society. If you share this vision and are looking to collaborate with someone determined to make a difference, please contact me.
+Whether architecting scalable servers or designing intuitive UIs, I’m always learning, collaborating, and striving to make a positive impact through code. Let’s build something amazing together!
 </div>
 
 ## Languages
