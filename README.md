@@ -77,30 +77,30 @@ Whether architecting scalable servers or designing intuitive UIs, I’m always l
 
 ## Stats
 <p align="center">
-  <a href="https://github.com/astro-47">
+<!--   <a href="https://github.com/astro-47"> -->
 <!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=raveriss&show_icons=true&theme=tokyonight" alt="Rafael's GitHub Stats" /> -->
-<!--   <a href="https://github.com/raveriss">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raveriss&theme=tokyonight" alt="Rafael's GitHub Streak" />
-  </a> -->
-  <!-- La carte de graphique de contributions pourrait être temporairement enlevée si elle ne s'affiche pas correctement -->
-  <!-- <a href="https://github.com/raveriss">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raveriss&theme=github" alt="Rafael's Contribution Graph" />
-  </a> -->
-<!-- </p>
+<!--     <a href="https://github.com/astro-47"> -->
+<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raveriss&theme=tokyonight" alt="Rafael's GitHub Streak" /> -->
+<!--     </a> -->
+<!--   La carte de graphique de contributions pourrait être temporairement enlevée si elle ne s'affiche pas correctement -->
+<!--         <a href="https://github.com/astro-47"> -->
+<!--     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=astro-47&theme=github" alt="astro's Contribution Graph" />
+  </a>
+</p> -->
 
 <p align="center">
-<!-- <!--   <a href="https://github.com/astro-47"> -->
-<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveriss&layout=compact&theme=tokyonight" />
-  </a> --> 
+       <a href="https://github.com/astro-47">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveriss&layout=compact&theme=tokyonight" />
+ </a> 
 
 
   <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/imad-ez-zaghba-8581342ab/">LinkedIn</a>
-<!-- ├─◈ <a href="link here">Twitter</a> -->
-├─◈ <a href="insta here">Instagram</a>
-├─◈ Discord: bagito__
+├─◈ <a href="https://x.com/imad_zaghba">Twitter</a>
+├─◈ <a href="https://www.instagram.com/ezz___47/">Instagram</a>
+├─◈ Discord: ASTRO
 │
 └───────────────────────────────▰▰▰
 
@@ -119,5 +119,8 @@ Whether architecting scalable servers or designing intuitive UIs, I’m always l
 ├─◈ <a href="https://github.com/aspro-47/FT_IRC">ft_irc</a>
 └───────────────────────────────▰▰▰
 
+    <p align="center">  
+<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
+</p>
 
 </pre>
